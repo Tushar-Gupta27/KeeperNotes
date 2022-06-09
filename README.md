@@ -12,3 +12,8 @@ A notes taking App for all your important things you need to remember (See GitHu
 * React.js
 * CSS
 * JS
+
+# Upcoming Features
+* Dark Mode
+* Responsive Design for mobiles
+* Ability to add your custom labels with color coding
