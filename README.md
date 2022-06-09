@@ -6,3 +6,9 @@ A notes taking App for all your important things you need to remember
 
 ***************************
 ![KeeperImage](./images/appSS.png)
+
+****************************
+# Technologies Used
+* React.js
+* CSS
+* JS
